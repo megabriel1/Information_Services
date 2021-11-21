@@ -1,0 +1,8 @@
+entity\Donation.class
+Model\Conexion.class
+Controller\Controlador.class
+Model\User.class
+Controller\ControladorServlet.class
+Model\Validate.class
+Model\UserDAO.class
+config\Connection.class
