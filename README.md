@@ -10,3 +10,5 @@ I attached the proyect called "App" developed in Netbeans 11.2, apache maven 3.6
 There is a folder with two images to improve the user experience and a .jpg image of the entity relationship diagram.
 
 You can find the database script called Donations and the MySQL jdbc Driver is also attached to make the connection to the database.
+
+All the attachments can be found in the Master branch.
